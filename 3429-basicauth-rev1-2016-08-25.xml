@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="3429-basicauth-rev1-2016-08-25">
+    <Basepaths>/basicauth</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1558941357942</CreatedAt>
+    <CreatedBy>verma.govind92@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>basicAuth</DisplayName>
+    <LastModifiedAt>1558941357942</LastModifiedAt>
+    <LastModifiedBy>verma.govind92@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:6c85318ac7958dcc755cd47ba6a05efc1d15a9e78e1cf9de94222f3090c7a4e044344f20b2b823217e2440c4eba50d6462c1c11990d9d885d2c8c4c203aa00b3</ManifestVersion>
+    <Policies>
+        <Policy>DecodeBaseAuthHeaders</Policy>
+        <Policy>Raise-Fault-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>
